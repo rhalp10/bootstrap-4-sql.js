@@ -8,8 +8,8 @@ For the impatients, try the demo here: http://kripken.github.io/sql.js/GUI/
 There is no C bindings or node-gyp compilation here, sql.js is a simple javascript file, that can be used like any traditional javascript library. If you are building a native application in javascript (using Electron for instance), or are working in node.js, you will likely prefer to use [a native binding of SQLite to javascript](https://www.npmjs.com/package/sqlite3).
 
 SQLite is public domain, sql.js is MIT licensed.
-# Screenshots 
-[![IMAGE ALT TEXT HERE](https://i.imgur.com/dENkMPc.png)
+## Screenshots 
+![IMAGE ALT TEXT HERE](https://i.imgur.com/dENkMPc.png)
 ## Documentation
 A [full documentation](http://kripken.github.io/sql.js/documentation/#http://kripken.github.io/sql.js/documentation/class/Database.html) generated from comments inside the source code, is available.
 
